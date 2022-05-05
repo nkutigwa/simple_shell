@@ -1,6 +1,6 @@
 # simple_shell
 # Table of Contents
-. Description
+#Description
 .File Structure
 .Requirements
 .Installation
